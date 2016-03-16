@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DateConverter</string>
+    <array name="bsad">
+        <item>AD</item>
+        <item>BS</item>
+    </array>
+</resources>
